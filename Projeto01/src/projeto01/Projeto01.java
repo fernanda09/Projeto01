@@ -16,6 +16,7 @@ public class Projeto01 {
      */
     public static void main(String[] args) {
         JanelaLogin jl = new JanelaLogin();
+        JanelaTexto jt = new JanelaTexto();
     }
     
 }
